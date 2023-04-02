@@ -1,13 +1,17 @@
+/*Applys this style to all the elements on the page*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/*Applys just to the body element with the desired colour*/
 body {
   background-color: #d9dcd6;
 }
 
+/*Applys a padding, a font family-family,background color and color to the font,
+You wouldn't need to make a class for this as there is usually only one header on a page*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,15 +20,19 @@ header {
   color: #ffffff;
 }
 
+/*A class that changes the header's h1 with the set properties*/
 .company-name {
   display: inline-block;
   font-size: 48px;
 }
 
+/*Class that gives a a new colour to the "seo" part of Horiseo*/
 .seo {
   color: #d9dcd6;
 }
 
+/*Element selector that sets these properties and setting the font here will
+change the children elements as well*/
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,24 +41,29 @@ nav {
   font-size: 20px;
 }
 
+/*class to remove the dot from list items*/
 .nav-list {
   list-style-type: none;
 }
 
+/*class selector to set all items inline, so that they sit on the same row*/
 .nav-item {
   display: inline-block;
   margin-left: 25px;
 }
-
+/*element selector to that changes the colour of the text and removes the
+underlining and text color change of links*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/*Element selector that makes all paragraph elements text font size 16*/
 p {
   font-size: 16px;
 }
 
+/*The main image of the page, that covers the entire width and 800px down*/
 .hero {
   height: 800px;
   width: 100%;
@@ -59,6 +72,8 @@ p {
   background-position: center;
 }
 
+/*Small class selector to move anything to the left or right 
+while keeping it consistent*/
 .float-left {
   float: left;
   margin-right: 25px;
@@ -69,12 +84,15 @@ p {
   margin-left: 25px;
 }
 
+/*Class applied to the main part of the page to keep everything
+the same */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/*The class used in the benefits in the aside*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -86,22 +104,28 @@ p {
   background-color: #2589bd;
 }
 
+/*Only applied to benefits sections*/
 .benefit-section {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/*Class that only applies to the title in the benefits sections*/
 .benefit-title {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/*class to make sure the image stays in a certain width,
+only setting width will make sure that won't look stretched in the height*/
 .aside-image {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
+/*class applied to all the articles to make sure they are
+all formated the same way*/
 .article {
   margin-bottom: 20px;
   padding: 50px;
@@ -110,15 +134,19 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
+
+/*Keep all the images the same height in the articles*/
 .article-images {
   max-height: 200px;
 }
 
+/*Making the text large in all the articles*/
 .article-title {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/*Element seletor on the footer using clear to make sure they don't collide with anything*/
 footer {
   padding: 30px;
   clear: both;
@@ -126,7 +154,7 @@ footer {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/*Setting some of the font in the footer to be larger*/
 .footer-text {
   font-size: 20px;
 }
