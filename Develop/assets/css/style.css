@@ -10,7 +10,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/*Applys a padding, a font family-family,background color and color to the font,
+/*Element selector that applies a padding, a font family-family,background color and color to the font,
 You wouldn't need to make a class for this as there is usually only one header on a page*/
 header {
   padding: 20px;
@@ -51,6 +51,7 @@ nav {
   display: inline-block;
   margin-left: 25px;
 }
+
 /*element selector to that changes the colour of the text and removes the
 underlining and text color change of links*/
 a {
