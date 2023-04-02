@@ -17,7 +17,11 @@ so that I can look back and understand the CSS at a later date.
 
 The usefulness of this project is learning how to make a webpage more representable and easier for all parties to understand.
 
+### Non-Semantic HTML
+
 ![Non-Semantic HTML](./Develop/assets/images/README-Images/Non-SemanticHTML.png)
+
+### Semantic HTML
 
 ![Semantic HTML](./Develop/assets/images/README-Images/SemenaticHTML.png)
 
