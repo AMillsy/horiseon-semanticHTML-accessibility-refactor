@@ -45,11 +45,11 @@ The usefulness of this project is learning how to make a webpage more representa
 
 ### Non-Semantic HTML
 
-![Non-Semantic HTML](./Develop/assets/images/README-Images/Non-SemanticHTML.png)
+![Non-Semantic HTML](./Assets/images/README-Images/Non-SemanticHTML.png)
 
 ### Semantic HTML
 
-![Semantic HTML](./Develop/assets/images/README-Images/SemenaticHTML.png)
+![Semantic HTML](./Assets/images/README-Images/SemenaticHTML.png)
 
 # License
 
