@@ -1,4 +1,8 @@
-# Semantic HTML refactoring
+# Horiseon Semantic HTML accessibility refactor
+
+## GitPage
+
+[Horiseon Website](https://amillsy.github.io/semantic-html-refactoring-week-1/)
 
 ## Description
 
@@ -27,6 +31,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
 
 ## What I have Learnt
 
