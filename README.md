@@ -2,7 +2,15 @@
 
 ## GitPage
 
-[Horiseon Website](https://amillsy.github.io/semantic-html-refactoring-week-1/)
+[Horiseon Website](https://amillsy.github.io/horiseon-semanticHTML-accessibility-refactor/)
+
+## Horiseon Site
+
+### Main Page
+![Hero image with the buttons to manveur the page](./Assets/images/README-Images/HoriseonMainPage.png)
+
+### Articles
+![Articles about search Engines, Reputation and Marketing](./Assets/images/README-Images/HoriseonArticles.png)
 
 ## Description
 
@@ -55,6 +63,7 @@ The usefulness of this project is learning how to make a webpage more representa
 ### Semantic HTML
 
 ![Semantic HTML](./Assets/images/README-Images/SemenaticHTML.png)
+
 
 # License
 
